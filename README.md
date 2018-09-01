@@ -1,3 +1,3 @@
 # Stuff
 
-Hello my Name is Prakahr Singh.
+Hello my Name is Prakhar Singh.
